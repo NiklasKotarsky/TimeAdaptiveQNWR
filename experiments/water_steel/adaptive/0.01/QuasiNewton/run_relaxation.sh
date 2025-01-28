@@ -1,1 +1,0 @@
-python3 heatCoupling.py -relax -Tol 0.01 -which water_steel

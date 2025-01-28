@@ -1,1 +1,0 @@
-python3 heatCoupling.py -relax -Tol 1e-05 -which water_steel
