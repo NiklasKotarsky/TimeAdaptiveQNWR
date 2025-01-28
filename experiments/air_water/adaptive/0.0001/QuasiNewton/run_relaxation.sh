@@ -1,0 +1,1 @@
+python3 heatCoupling.py -relax -Tol 0.0001 -which air_water
